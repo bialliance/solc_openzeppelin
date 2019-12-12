@@ -1,0 +1,4 @@
+FROM bash
+
+RUN apk add git &&\
+echo 100
